@@ -7,8 +7,7 @@
 ## 📌 Overview
 Customer retention, fraud prevention, and personalization are critical challenges for financial institutions.  
 This project builds a **Customer360 AI Platform** using **Google BigQuery ML + Generative AI** to unify:
-- ✅ Churn Prediction  
-- ✅ Fraud Detection  
+- ✅ Customer Segmentation
 - ✅ Spend Forecasting  
 - ✅ Product Recommendations  
 - ✅ Complaint Classification with LLMs  
