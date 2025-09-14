@@ -1,4 +1,4 @@
-# 🏦 Customer360 AI Platform with BigQuery ML
+# 🏦 Customer360 AI Platform with BigQuery
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-ML-blue?logo=googlecloud)
 ![Hackathon](https://img.shields.io/badge/Hackathon-Build-orange)
